@@ -12,6 +12,7 @@
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
 |Dwayne SCOTT|Belize|[@dscott](https://github.com/scottylad501)
+|Enrico FUCILE|WMO Secretariat|[@efucile](https://github.com/efucile)
 
 ## Meetings
 https://github.com/wmo-im/tt-os/wiki/Meetings
