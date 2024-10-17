@@ -11,7 +11,7 @@
 |Name | Member | GitHub handle |
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
-|Dwayne SCOTT|Belize|[@dscott](https://github.com/scottylad501)
+|Dwayne SCOTT|Belize|[@scottylad501](https://github.com/scottylad501)
 |Enrico FUCILE|WMO Secretariat|[@efucile](https://github.com/efucile)
 
 ## Meetings
