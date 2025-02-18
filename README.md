@@ -10,9 +10,15 @@
 
 |Name | Member | GitHub handle |
 |---|---|---|
-|Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
-|Dwayne SCOTT|Belize|[@scottylad501](https://github.com/scottylad501)
-|Enrico FUCILE|WMO Secretariat|[@efucile](https://github.com/efucile)
+|Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)|X
+|Mr Ian EDWARDS|United Kingdom|[TODO](https://github.com/TODO)|
+|Dr Ardhasena SOPAHELUWAKAN|Indonesia|[TODO](https://github.com/TODO)|
+|Mr Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
+|Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
+|Dr Regina Yulia YASMIN|Indonesia|[TODO](https://github.com/TODO)|
+|Ms Joyce BANDA|Zimbabwe|[TODO](https://github.com/TODO)|
+|Dr Jian LI|China|[TODO](https://github.com/TODO)|
+|David BERRY|WMO Secretariat|[david-i-berry](https://github.com/david-i-berry)|
 
 ## Meetings
 https://github.com/wmo-im/tt-oss/wiki/Meetings
