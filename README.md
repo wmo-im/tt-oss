@@ -11,7 +11,7 @@
 |Name | Member | GitHub handle |
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)|X
-|Dr Athina TRAKAS|ECMWF|[TODO](https://github.com/TODO)|
+|Athina TRAKAS|ECMWF|[TODO](https://github.com/TODO)|
 |Mr Ian EDWARDS|United Kingdom|[TODO](https://github.com/TODO)|
 |Dr Ardhasena SOPAHELUWAKAN|Indonesia|[TODO](https://github.com/TODO)|
 |Mr Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
