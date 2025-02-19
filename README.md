@@ -12,13 +12,13 @@
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)|X
 |Athina TRAKAS|ECMWF|[TODO](https://github.com/TODO)|
-|Mr Ian EDWARDS|United Kingdom|[TODO](https://github.com/TODO)|
-|Dr Ardhasena SOPAHELUWAKAN|Indonesia|[TODO](https://github.com/TODO)|
-|Mr Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
+|Ian EDWARDS|United Kingdom|[TODO](https://github.com/TODO)|
+|Ardhasena SOPAHELUWAKAN|Indonesia|[TODO](https://github.com/TODO)|
+|Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
 |Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
-|Dr Regina Yulia YASMIN|Indonesia|[TODO](https://github.com/TODO)|
-|Ms Joyce BANDA|Zimbabwe|[TODO](https://github.com/TODO)|
-|Dr Jian LI|China|[TODO](https://github.com/TODO)|
+|Regina Yulia YASMIN|Indonesia|[TODO](https://github.com/TODO)|
+|Joyce BANDA|Zimbabwe|[TODO](https://github.com/TODO)|
+|Jian LI|China|[TODO](https://github.com/TODO)|
 |David BERRY|WMO Secretariat|[david-i-berry](https://github.com/david-i-berry)|
 
 ## Meetings
