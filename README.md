@@ -11,16 +11,16 @@
 |Name | Member | GitHub handle |
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)|X
-|Athina TRAKAS|ECMWF|[trakasa](https://github.com/trakasa)|
-|Ian EDWARDS|United Kingdom|[isedwards](https://github.com/isedwards)|
+|Athina TRAKAS|ECMWF|[@trakasa](https://github.com/trakasa)|
+|Ian EDWARDS|United Kingdom|[@isedwards](https://github.com/isedwards)|
 |Ardhasena SOPAHELUWAKAN|Indonesia|[TODO](https://github.com/TODO)|
 |Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
 |Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
-|Regina Yulia YASMIN|Indonesia|[TODO](https://github.com/TODO)|
+|Regina Yulia YASMIN|Indonesia|[@reginayasmin](https://github.com/reginayasmin)|
 |Joyce BANDA|Zimbabwe|[TODO](https://github.com/TODO)|
-|Jian LI|China|[jiancams](https://github.com/jiancams)|
-|Ethan Davis|United States|[ethanrd](https://github.com/ethanrd)|
-|David BERRY|WMO Secretariat|[david-i-berry](https://github.com/david-i-berry)|
+|Jian LI|China|[@jiancams](https://github.com/jiancams)|
+|Ethan Davis|United States|[@ethanrd](https://github.com/ethanrd)|
+|David BERRY|WMO Secretariat|[@david-i-berry](https://github.com/david-i-berry)|
 
 ## Meetings
 https://github.com/wmo-im/tt-oss/wiki/Meetings
