@@ -8,13 +8,13 @@
 
 >all team: [@wmo-im/tt-oss](https://github.com/orgs/wmo-im/teams/tt-oss)
 
-|Name | Member | GitHub handle |
+|Name | Affiliation/Member | GitHub handle |
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)|X
 |Athina TRAKAS|ECMWF|[@trakasa](https://github.com/trakasa)|
 |Ian EDWARDS|United Kingdom|[@isedwards](https://github.com/isedwards)|
 |Ardhasena SOPAHELUWAKAN|Indonesia|[@ardhasena-bmkg](https://github.com/ardhasena-bmkg)|
-|Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
+|Jose Mauro REZENDE|Brazil|[@JMauror](https://github.com/JMauror)|
 |Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
 |Regina Yulia YASMIN|Indonesia|[@reginayasmin](https://github.com/reginayasmin)|
 |Joyce BANDA|Zimbabwe|[@bbandajoy](https://github.com/bbandajoy)|
