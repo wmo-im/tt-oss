@@ -19,7 +19,7 @@
 |Regina Yulia YASMIN|Indonesia|[@reginayasmin](https://github.com/reginayasmin)|
 |Joyce BANDA|Zimbabwe|[@bbandajoy](https://github.com/bbandajoy)|
 |Jian LI|China|[@jiancams](https://github.com/jiancams)|
-|Ethan Davis|United States|[@ethanrd](https://github.com/ethanrd)|
+|Ethan DAVIS|United States|[@ethanrd](https://github.com/ethanrd)|
 |David BERRY|WMO Secretariat|[@david-i-berry](https://github.com/david-i-berry)|
 
 ## Meetings
