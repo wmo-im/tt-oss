@@ -17,7 +17,7 @@
 |Jose Mauro REZENDE|Brazil|[TODO](https://github.com/TODO)|
 |Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
 |Regina Yulia YASMIN|Indonesia|[@reginayasmin](https://github.com/reginayasmin)|
-|Joyce BANDA|Zimbabwe|[bbandajoy](https://github.com/bbandajoy)|
+|Joyce BANDA|Zimbabwe|[@bbandajoy](https://github.com/bbandajoy)|
 |Jian LI|China|[@jiancams](https://github.com/jiancams)|
 |Ethan Davis|United States|[@ethanrd](https://github.com/ethanrd)|
 |David BERRY|WMO Secretariat|[@david-i-berry](https://github.com/david-i-berry)|
