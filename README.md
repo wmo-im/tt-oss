@@ -15,7 +15,7 @@
 |Ian EDWARDS|United Kingdom|[@isedwards](https://github.com/isedwards)|
 |Ardhasena SOPAHELUWAKAN|Indonesia|[@ardhasena-bmkg](https://github.com/ardhasena-bmkg)|
 |Jose Mauro REZENDE|Brazil|[@JMauror](https://github.com/JMauror)|
-|Vasile CRĂCIUNESCU|Romania|[TODO](https://github.com/TODO)|
+|Vasile CRĂCIUNESCU|Romania|[@vasile33](https://github.com/vasile33)|
 |Regina Yulia YASMIN|Indonesia|[@reginayasmin](https://github.com/reginayasmin)|
 |Joyce BANDA|Zimbabwe|[@bbandajoy](https://github.com/bbandajoy)|
 |Jian LI|China|[@jiancams](https://github.com/jiancams)|
