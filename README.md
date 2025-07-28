@@ -2,6 +2,8 @@
 
 [TT-OSS](https://community.wmo.int/governance/commission-membership/commission-observation-infrastructures-and-information-systems-infcom/commission-infrastructure-national-representatives/infcom-management-group/standing-committee-information-management-and-technology-sc-imt/TODO) develops and manages WMO's Open Source framework, strategies, guidelines, and best practices.
 
+**See [WMO Guide to Free and Open Source Software](https://github.com/wmo-im/wmo-foss-guide).**
+
 [Terms of Reference](https://github.com/wmo-im/sc-imt/blob/main/et-tt/tt-oss.adoc)
 
 ## Membership
