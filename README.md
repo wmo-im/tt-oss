@@ -1,4 +1,6 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/custom/wmo/logo.png) WMO Task Team on Open Source Software (TT-OSS)
+<img alt="World Meteorological Organization" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/World_Meteorological_Organization_Logo.svg/2560px-World_Meteorological_Organization_Logo.svg.png" width="600">
+
+# Task Team on Open Source Software (TT-OSS)
 
 [TT-OSS](https://community.wmo.int/governance/commission-membership/commission-observation-infrastructures-and-information-systems-infcom/commission-infrastructure-national-representatives/infcom-management-group/standing-committee-information-management-and-technology-sc-imt/TODO) develops and manages WMO's Open Source framework, strategies, guidelines, and best practices.
 
